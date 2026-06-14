@@ -183,6 +183,6 @@ Bu loyiha [MIT](LICENSE) litsenziyasi ostida tarqatiladi.
 
 ## 📬 Muallif
 
-**Sizning ismingiz** — [@username](https://t.me/username)
+**Sizning ismingiz** — [@username](https://t.me/ir_mentor_uz)
 
 ⭐ Agar loyiha foydali bo'lsa, **star** bosishni unutmang!
