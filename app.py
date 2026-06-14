@@ -6,11 +6,7 @@ import config
 from foykey import foymenu
 from config import BOT_TOKEN
 
-bot = Bot(config.BOT_TOKEN, parse_mode=ParseMode.HTML)
-dp = Dispatcher(bot)
 
-
-@dp.message_handler(commands=['start'])
     await message.answer(
         f"Assalomu alaykum {message.from_user.full_name} botimga tashrif buyurganingizdan bag'oyatda xursandman !",
         reply_markup=foymenu),
