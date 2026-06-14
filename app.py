@@ -11,7 +11,6 @@ dp = Dispatcher(bot)
 
 
 @dp.message_handler(commands=['start'])
-async def start(message: types.Message):
     await message.answer(
         f"Assalomu alaykum {message.from_user.full_name} botimga tashrif buyurganingizdan bag'oyatda xursandman !",
         reply_markup=foymenu),
