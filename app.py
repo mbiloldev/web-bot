@@ -44,7 +44,7 @@ async def send_apk(message: Message):
 @dp.message_handler(text='Saytni korish 💻')
 async def send_photo(message: Message):
     await message.answer_photo('AgACAgIAAxkBAAIBR2YSWGGr5hFMCvonP-v1fzzlS1PrAAKm1TEbEw-BSOv2qBFWXQhjAQADAgADeQADNAQ',
-                               caption='Web-siteniochish uchun tugmani bosing 👇', reply_markup=royhatdanotish)
+                               caption='Web-siteniochish uchun tugmani bosing 👇', reply_markup=)
 
 
 @dp.message_handler(text="Admin Panelni ko'rish 💻")
