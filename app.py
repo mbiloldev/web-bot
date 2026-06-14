@@ -1,7 +1,6 @@
 import os
 
 from aiogram import Bot, Dispatcher, executor, types
-from aiogram.types import ParseMode, Message
 
 import config
 from foykey import foymenu
