@@ -6,7 +6,6 @@ import config
 from foykey import foymenu
 from keyboards import adminmenu
 from config import BOT_TOKEN
-from webbutton import royhatdanotish, admin
 
 bot = Bot(config.BOT_TOKEN, parse_mode=ParseMode.HTML)
 dp = Dispatcher(bot)
